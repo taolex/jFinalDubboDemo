@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JFinalDubboDemoApi/JFinalDubboDemoApi.iml" filepath="$PROJECT_DIR$/../JFinalDubboDemoApi/JFinalDubboDemoApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JFinalDubboDemoConsumer/JFinalDubboDemoConsumer.iml" filepath="$PROJECT_DIR$/../JFinalDubboDemoConsumer/JFinalDubboDemoConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JFinalDubboDemoProvider/JFinalDubboDemoProvider.iml" filepath="$PROJECT_DIR$/../JFinalDubboDemoProvider/JFinalDubboDemoProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jetty/jetty.iml" filepath="$PROJECT_DIR$/../jetty/jetty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jfinal.iml" filepath="$PROJECT_DIR$/jfinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tomcat/tomcat.iml" filepath="$PROJECT_DIR$/../tomcat/tomcat.iml" />
+    </modules>
+  </component>
+</project>

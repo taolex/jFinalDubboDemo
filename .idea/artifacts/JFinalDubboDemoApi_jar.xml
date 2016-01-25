@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JFinalDubboDemoApi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JFinalDubboDemoApi_jar</output-path>
+    <root id="archive" name="JFinalDubboDemoApi.jar">
+      <element id="module-output" name="JFinalDubboDemoApi" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/jfinal/jfinal/1.9/jfinal-1.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

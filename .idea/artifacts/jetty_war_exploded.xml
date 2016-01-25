@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="jetty:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/jetty_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="jetty/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jetty" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jetty-server-8.1.8" />
+          <element id="library" level="project" name="jfinal-2.1-bin-with-src" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

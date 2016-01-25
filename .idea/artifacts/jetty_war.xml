@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jetty:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/jetty_war</output-path>
+    <root id="archive" name="jetty_war.war">
+      <element id="artifact" artifact-name="jetty:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jfinal-2.1-bin-with-src" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

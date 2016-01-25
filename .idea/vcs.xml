@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../JFinalDubboDemoApi" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../JFinalDubboDemoConsumer" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../JFinalDubboDemoProvider" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../tomcat" vcs="svn" />
+  </component>
+</project>
